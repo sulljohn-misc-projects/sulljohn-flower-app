@@ -1,1 +1,1 @@
-See: ![](https://sullljohn-flower-app.herokuapp.com/)
+See [here](https://sullljohn-flower-app.herokuapp.com/) for demo
